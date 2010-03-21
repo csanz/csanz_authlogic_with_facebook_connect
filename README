@@ -1,0 +1,9 @@
+I'm including pretty much everything inside here.
+
+All you have to do is install facebooker
+
+sudo gem install facebooker
+
+ALSO
+
+for some reason rake doesn't like my facebooker entry inside environment.rb, so in order to run rake you'll need to comment that line out.  If you have a fix for it please send it my way.  Thanks!

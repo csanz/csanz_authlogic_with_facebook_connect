@@ -1,0 +1,5 @@
+set autoeval on
+set basename off
+set debuggertesting off
+set autolist on
+set autoirb off

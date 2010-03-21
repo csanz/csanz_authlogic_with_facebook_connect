@@ -1,0 +1,6 @@
+<!--Exhedra Ad Code Start-->
+<!--Be careful and do not modify this ad code, except as intructed, or you referrals may be lost.  Exhedra is not responsible for referrals lost in this matter.-->
+<!--Instructions: Replace @UNIQUE_ID@ with your own code to generate a unique id (to force the ad to refresh)-->
+<iframe src="http://ads2.exhedra.com/ads/ShowAd.Asp?lngSlotId=11&lngWId=-3&blnSupressOutput=False&strBgColor=white&vstrUniquePageId=@UNIQUE_ID@&blnJScriptInclude=False&AId=7498991&lngMaxChars=400&txtAdWidth=140"  marginwidth=0 marginheight=0  width=140 height=400  bgcolor="white" hspace=0 vspace=0  frameborder=0 scrolling=no></iframe>
+<!--Ad code is Copyright 2002 by Exhedra Solutions, Inc.-->
+<!--Exhedra Ad Code End-->
